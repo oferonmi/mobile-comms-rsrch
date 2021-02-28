@@ -1,5 +1,4 @@
-function pathlossValue = getMmPathloss(txRxDistance, carrierFreq,BSheight,... 
-                                       UTheight, refDist, envType,sceType)
+function pathlossValue = getMmPathloss(txRxDistance, carrierFreq,BSheight,UTheight, refDist, envType,sceType)
 % getMmPathloss - Computes the pathloss incured by a milimeter wave signal
 % transmitted over a given distance, between a Tx and Rx of specified
 % heights respectively for various scenarios as specified in 3GPP TR 38.901
