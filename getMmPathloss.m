@@ -4,6 +4,8 @@ function pathlossValue = getMmPathloss(txRxDistance, carrierFreq,BSheight,UTheig
 % heights respectively for various scenarios as specified in 3GPP TR 38.901
 % V14.0.0 and updated in 3GPP TR 38.901 V16.0.0. 
 
+% @Author - Victor Ocheri (datafilik)
+
 % NOTE: Before calling this function, you would need to specify a seed
 % value everytime by calling the rng() function with thsame choosen number
 % as input (example rng(42)), to ensure consistent result.
