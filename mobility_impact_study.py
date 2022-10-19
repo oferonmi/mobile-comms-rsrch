@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Created on Tue Oct 18 13:01:00 2022
 @author: voche
