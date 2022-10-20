@@ -465,7 +465,7 @@ for speed in MOBILITY_SIMS["speed"]:
     # Baseline - LS Estimation
     plt.semilogy(ebno_dbs, BLER['baseline-ls-estimation'][i], label="Baseline - LS Estimation {}[m/s]".format(speed))
     # Neural receiver
-    plt.semilogy(ebno_dbs, BLER['neural-receiver'][i], label="Neural receiver {}[m/s".format(speed))
+    plt.semilogy(ebno_dbs, BLER['neural-receiver'][i], label="Neural receiver {}[m/s]".format(speed))
     
     i+= 1
     
