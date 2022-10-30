@@ -2,7 +2,6 @@
 """
 Created on Thu Oct 20 04:10:59 2022
 @Title: Mutliuser MIMO OFDM sytem with neural receiver simualtions
-@author: voche
 """
 # Configure the notebook to use only a single GPU and allocate only as much memory as needed
 # For more details, see https://www.tensorflow.org/guide/gpu
